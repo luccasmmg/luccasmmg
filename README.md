@@ -25,3 +25,5 @@
 
 ## ⭐ My Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccasmmg&show_icons=true)
+
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmmg&hide_title=true&hide_border=true&layout=compact&langs_count=8&hide=css,matlab,html">
