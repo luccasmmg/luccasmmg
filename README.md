@@ -2,7 +2,7 @@
 
 > I'm currently a frontend developer at Datopian
 
-🔭 My main interests are in Functional programming, The Rust Programming Language and Python, when it comes to Python i favor to use FastAPI to build backend projects, i also work with Frontend technologies, primarly with React coupled with NextJS. I also enjoy contributing to open source projects from time to time, mostly in the Nushell project.
+🔭 My main interests are in Functional programming, The Rust Programming Language and Python, when it comes to Python i favor to use FastAPI to build backend projects, i also work with Frontend technologies, primarly with React coupled with NextJS. I also enjoy contributing to open source projects from time to time, mostly with Rust.
 
 💬 Feel free to contact me about anything, including job opportunities.
 
